@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MGM BMS</string>
+    <string name="title_activity_main">MGM BMS</string>
+    <string name="package_name">com.mgm.bms</string>
+    <string name="custom_url_scheme">com.mgm.bms</string>
+</resources>

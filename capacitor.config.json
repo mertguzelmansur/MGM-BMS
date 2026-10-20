@@ -1,0 +1,25 @@
+{
+  "appId": "com.mgm.bms",
+  "appName": "MGM BMS",
+  "webDir": "www",
+  "backgroundColor": "#05080d",
+  "android": {
+    "backgroundColor": "#05080d",
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "css",
+      "initialViewportFitValueHint": "cover",
+      "style": "DARK"
+    },
+    "BluetoothLe": {
+      "displayStrings": {
+        "scanning": "Taranıyor…",
+        "cancel": "İptal",
+        "availableDevices": "Bulunan cihazlar",
+        "noDeviceFound": "Cihaz bulunamadı"
+      }
+    }
+  }
+}
